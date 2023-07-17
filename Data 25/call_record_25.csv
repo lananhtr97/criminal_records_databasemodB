@@ -1,0 +1,251 @@
+ID,FULL_NAME,FIRST_NAME,LAST_NAME,CALLING_NUMBER,CALLED_NUMBER,START_DATE,END_DATE,DURATION,CITY,STATE,ADDRESS,CELL_SITE
+1,Binni Rumming,Binni,Rumming,62(579)581-9409,63(529)477-0399,1660408262,1660409795,1533,Berkeley,California,0 Pennsylvania Street,42
+2,Weston Olley,Weston,Olley,86(130)252-5866,998(108)587-2824,1634744023,1634745936,1913,Huntington Beach,California,55729 Luster Drive,11
+3,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,84(866)126-6246,1657053222,1657056146,2924,Richmond,California,75 Talmadge Place,20
+4,Benedetto Cownden,Benedetto,Cownden,63(416)723-3488,373(885)381-2656,1633428980,1633432734,3754,Los Angeles,California,854 Corscot Parkway,8
+5,Thom Mitcham,Thom,Mitcham,385(186)616-2077,86(661)667-6074,1643625772,1643628827,3055,Irvine,California,5578 Hoffman Trail,40
+6,Alair Harower,Alair,Harower,230(952)254-2856,850(839)808-5074,1637528375,1637530999,2624,San Diego,California,337 Welch Trail,39
+7,Wat Annetts,Wat,Annetts,66(804)389-7926,86(806)191-7196,1646201307,1646202775,1468,Berkeley,California,0 Pennsylvania Street,42
+8,Boonie Flather,Boonie,Flather,504(630)761-4257,7(180)359-2018,1630161392,1630164308,2916,San Francisco,California,447 Dexter Crossing,32
+9,Brennan Orrock,Brennan,Orrock,48(326)465-3411,62(500)122-2049,1642886476,1642887668,1192,Richmond,California,7 Memorial Trail,18
+10,Brennan Orrock,Brennan,Orrock,48(326)465-3411,86(661)667-6074,1639290672,1639291054,382,San Diego,California,3 Thierer Pass,19
+11,Binni Rumming,Binni,Rumming,62(579)581-9409,86(806)191-7196,1631800352,1631804415,4063,Inglewood,California,51 Brentwood Junction,4
+12,Rube Patshull,Rube,Patshull,27(692)289-3868,52(572)373-3046,1656782962,1656786054,3092,Richmond,California,7 Memorial Trail,18
+13,Betsy Scrancher,Betsy,Scrancher,381(149)151-2454,62(906)288-1488,1646996760,1646997568,808,Richmond,California,7 Memorial Trail,18
+14,Irene Albert,Irene,Albert,62(185)986-1070,356(123)992-0999,1660805434,1660808070,2636,Pasadena,California,42482 Scott Court,2
+15,Lizabeth Kilshall,Lizabeth,Kilshall,86(763)709-8753,593(218)348-7628,1646687986,1646688907,921,Lancaster,California,646 Carpenter Plaza,23
+16,Thom Mitcham,Thom,Mitcham,385(186)616-2077,62(895)811-6103,1633674485,1633676622,2137,Inglewood,California,51 Brentwood Junction,4
+17,Sarina McMarquis,Sarina,McMarquis,81(653)645-4714,33(831)446-5581,1657531905,1657532469,564,San Jose,California,7161 Division Park,26
+18,Betsy Scrancher,Betsy,Scrancher,381(149)151-2454,66(191)311-1807,1654207341,1654212178,4837,Sacramento,California,4 Lunder Lane,35
+19,Weston Olley,Weston,Olley,86(130)252-5866,62(869)779-9681,1644672901,1644677802,4901,Glendale,California,0908 Basil Point,7
+20,Melisse Shilton,Melisse,Shilton,212(830)563-1091,30(510)813-2489,1655448292,1655449708,1416,Irvine,California,5578 Hoffman Trail,40
+21,Leila Ruddick,Leila,Ruddick,996(696)476-9493,55(854)499-0789,1658076819,1658077127,308,Petaluma,California,22898 Moulton Terrace,48
+22,Leila Ruddick,Leila,Ruddick,996(696)476-9493,234(685)245-1915,1642355874,1642358011,2137,Richmond,California,7 Memorial Trail,18
+23,Rosalie McGaugey,Rosalie,McGaugey,1(909)642-2495,62(906)288-1488,1644583546,1644587908,4362,Berkeley,California,0 Pennsylvania Street,42
+24,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,86(521)154-8375,1648663105,1648663816,711,Sacramento,California,6357 Northwestern Pass,36
+25,Jocko Crutch,Jocko,Crutch,33(583)906-9913,52(572)373-3046,1646330208,1646334290,4082,San Francisco,California,1 Prairieview Lane,21
+26,Florie Satchell,Florie,Satchell,52(586)779-1666,86(473)129-7337,1630199877,1630203987,4110,Long Beach,California,678 Elgar Terrace,1
+27,Florie Satchell,Florie,Satchell,52(586)779-1666,46(295)230-5292,1638114778,1638115919,1141,San Diego,California,2149 Luster Point,3
+28,Terence Balhatchet,Terence,Balhatchet,351(905)372-6077,86(473)129-7337,1651787050,1651789902,2852,San Jose,California,36441 Gale Plaza,27
+29,Weston Olley,Weston,Olley,86(130)252-5866,86(521)154-8375,1633190876,1633191873,997,San Jose,California,36441 Gale Plaza,27
+30,Thom Mitcham,Thom,Mitcham,385(186)616-2077,62(500)122-2049,1636379700,1636380224,524,Carlsbad,California,1 Bartelt Lane,31
+31,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,52(572)373-3046,1637354544,1637355372,828,Irvine,California,5578 Hoffman Trail,40
+32,Charmine Maunders,Charmine,Maunders,92(593)729-9872,63(519)969-3726,1648259202,1648264002,4800,Huntington Beach,California,64153 Birchwood Crossing,24
+33,Cosette Parrot,Cosette,Parrot,86(318)201-5689,356(123)992-0999,1657749854,1657754568,4714,Fullerton,California,54 Kropf Circle,9
+34,Charmine Maunders,Charmine,Maunders,92(593)729-9872,234(685)245-1915,1650014642,1650017998,3356,Glendale,California,0908 Basil Point,7
+35,Willa Bubbings,Willa,Bubbings,46(467)187-7051,84(866)126-6246,1644105006,1644109286,4280,San Diego,California,3 Thierer Pass,19
+36,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,62(895)811-6103,1654425216,1654429745,4529,Sacramento,California,4 Corry Park,37
+37,Cecil Cordy,Cecil,Cordy,62(203)763-5501,81(349)168-5517,1654522815,1654525787,2972,Fullerton,California,54 Kropf Circle,9
+38,Alair Harower,Alair,Harower,230(952)254-2856,62(895)811-6103,1635599397,1635600287,890,Fresno,California,5536 Grasskamp Junction,50
+39,Darla Halfacree,Darla,Halfacree,30(870)704-5639,7(615)844-9516,1654127621,1654129762,2141,San Francisco,California,60 Fisk Way,45
+40,Lanie Hagley,Lanie,Hagley,63(996)834-3794,81(349)168-5517,1639928519,1639931852,3333,Sacramento,California,6357 Northwestern Pass,36
+41,Boonie Flather,Boonie,Flather,504(630)761-4257,62(500)122-2049,1643387955,1643391082,3127,Oakland,California,85369 Independence Lane,16
+42,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,48(634)965-2665,1650925174,1650926022,848,Santa Cruz,California,0 Dapin Alley,29
+43,Bambie Benge,Bambie,Benge,86(211)608-3729,234(685)245-1915,1656301854,1656305697,3843,San Jose,California,7161 Division Park,26
+44,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,63(519)969-3726,1641132491,1641135523,3032,San Diego,California,60354 Monica Crossing,38
+45,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,212(780)387-2949,1652781219,1652782851,1632,Lancaster,California,646 Carpenter Plaza,23
+46,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,52(572)373-3046,1638865949,1638870310,4361,Irvine,California,4365 Steensland Pass,22
+47,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,7(615)844-9516,1632433214,1632437602,4388,San Diego,California,60354 Monica Crossing,38
+48,Jocko Crutch,Jocko,Crutch,33(583)906-9913,48(457)911-6423,1631802628,1631807012,4384,San Diego,California,3 Thierer Pass,19
+49,Wat Annetts,Wat,Annetts,66(804)389-7926,86(521)154-8375,1645806204,1645809188,2984,Fresno,California,5536 Grasskamp Junction,50
+50,Hieronymus Blaskett,Hieronymus,Blaskett,55(349)599-8866,33(819)524-5775,1632944284,1632944493,209,Lancaster,California,646 Carpenter Plaza,23
+51,Darla Halfacree,Darla,Halfacree,30(870)704-5639,81(349)168-5517,1634179553,1634180425,872,San Diego,California,2149 Luster Point,3
+52,Brennan Orrock,Brennan,Orrock,48(326)465-3411,33(831)446-5581,1655870026,1655871585,1559,Inglewood,California,51 Brentwood Junction,4
+53,Brennan Orrock,Brennan,Orrock,48(326)465-3411,373(885)381-2656,1634599608,1634604013,4405,Los Angeles,California,8 Esch Street,49
+54,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,55(726)656-6186,1659403739,1659408293,4554,San Diego,California,60354 Monica Crossing,38
+55,Lilia Ellerker,Lilia,Ellerker,86(523)430-1507,971(419)560-7528,1629667646,1629672479,4833,Petaluma,California,22898 Moulton Terrace,48
+56,Lilia Ellerker,Lilia,Ellerker,86(523)430-1507,55(387)322-6848,1642168611,1642169591,980,Pasadena,California,42482 Scott Court,2
+57,Cameron Smallthwaite,Cameron,Smallthwaite,62(232)374-2946,86(722)958-3884,1636739959,1636740708,749,Sacramento,California,24 Hoepker Crossing,47
+58,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,86(722)958-3884,1630246452,1630251165,4713,San Diego,California,60354 Monica Crossing,38
+59,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,33(831)446-5581,1638966273,1638966742,469,Fresno,California,17646 Prairie Rose Drive,5
+60,Waring Mordy,Waring,Mordy,62(922)388-7545,86(317)385-0181,1637282419,1637283881,1462,Oakland,California,85369 Independence Lane,16
+61,Terence Balhatchet,Terence,Balhatchet,351(905)372-6077,63(529)477-0399,1633706190,1633708353,2163,Santa Cruz,California,0 Dapin Alley,29
+62,Willa Bubbings,Willa,Bubbings,46(467)187-7051,62(906)288-1488,1655770376,1655774536,4160,San Jose,California,7161 Division Park,26
+63,Waring Mordy,Waring,Mordy,62(922)388-7545,63(529)477-0399,1631600498,1631604467,3969,Stockton,California,647 Larry Park,44
+64,Melisse Shilton,Melisse,Shilton,212(830)563-1091,33(831)446-5581,1649819650,1649822705,3055,Long Beach,California,50207 Riverside Alley,10
+65,Melisse Shilton,Melisse,Shilton,212(830)563-1091,7(512)226-1547,1656644342,1656645217,875,San Francisco,California,60 Fisk Way,45
+66,Leila Ruddick,Leila,Ruddick,996(696)476-9493,46(227)770-6685,1655820983,1655822895,1912,Carlsbad,California,1 Bartelt Lane,31
+67,Cosette Parrot,Cosette,Parrot,86(318)201-5689,971(419)560-7528,1630173059,1630177320,4261,Santa Cruz,California,0 Dapin Alley,29
+68,Lilia Ellerker,Lilia,Ellerker,86(523)430-1507,62(500)122-2049,1647533420,1647536838,3418,San Diego,California,337 Welch Trail,39
+69,Rube Patshull,Rube,Patshull,27(692)289-3868,62(500)122-2049,1653724789,1653727042,2253,Fresno,California,5536 Grasskamp Junction,50
+70,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,62(895)811-6103,1660923009,1660923538,529,Carlsbad,California,2747 Russell Hill,34
+71,Leila Ruddick,Leila,Ruddick,996(696)476-9493,356(123)992-0999,1640646556,1640650954,4398,San Diego,California,337 Welch Trail,39
+72,Cosette Parrot,Cosette,Parrot,86(318)201-5689,66(191)311-1807,1646766368,1646769164,2796,Fresno,California,17646 Prairie Rose Drive,5
+73,Florie Satchell,Florie,Satchell,52(586)779-1666,63(519)969-3726,1631001540,1631002264,724,Los Angeles,California,2707 Linden Place,14
+74,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,86(806)191-7196,1652874792,1652879190,4398,San Jose,California,36441 Gale Plaza,27
+75,Lizabeth Kilshall,Lizabeth,Kilshall,86(763)709-8753,62(869)779-9681,1660924186,1660925996,1810,San Jose,California,7161 Division Park,26
+76,Wat Annetts,Wat,Annetts,66(804)389-7926,48(634)965-2665,1644322925,1644327193,4268,San Diego,California,337 Welch Trail,39
+77,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,55(726)656-6186,1649326560,1649329378,2818,San Diego,California,3 Thierer Pass,19
+78,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,62(895)811-6103,1639625361,1639628807,3446,San Diego,California,3 Thierer Pass,19
+79,Melisse Shilton,Melisse,Shilton,212(830)563-1091,62(869)779-9681,1649974181,1649975651,1470,Oakland,California,85369 Independence Lane,16
+80,Willa Bubbings,Willa,Bubbings,46(467)187-7051,66(191)311-1807,1630070717,1630072736,2019,Pasadena,California,42482 Scott Court,2
+81,Georgianna Lillford,Georgianna,Lillford,86(125)889-2705,7(615)844-9516,1659372142,1659373198,1056,Sacramento,California,4 Corry Park,37
+82,Robbi Freegard,Robbi,Freegard,420(355)164-2092,55(387)322-6848,1644384567,1644387798,3231,Pasadena,California,42482 Scott Court,2
+83,Brennan Orrock,Brennan,Orrock,48(326)465-3411,234(735)131-5980,1650572482,1650573885,1403,Sacramento,California,6357 Northwestern Pass,36
+84,Willa Bubbings,Willa,Bubbings,46(467)187-7051,998(108)587-2824,1637931348,1637932838,1490,San Francisco,California,2 New Castle Road,25
+85,Sarina McMarquis,Sarina,McMarquis,81(653)645-4714,976(411)733-8335,1654195362,1654199168,3806,Sacramento,California,4 Lunder Lane,35
+86,Cecil Cordy,Cecil,Cordy,62(203)763-5501,234(735)131-5980,1658133272,1658137885,4613,Irvine,California,4365 Steensland Pass,22
+87,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,86(722)958-3884,1634001620,1634004786,3166,Irvine,California,6642 Rowland Junction,30
+88,Tobe Boatright,Tobe,Boatright,502(141)451-6640,86(473)129-7337,1640092764,1640095095,2331,San Jose,California,36441 Gale Plaza,27
+89,Boonie Flather,Boonie,Flather,504(630)761-4257,48(457)911-6423,1641443231,1641445069,1838,San Bernardino,California,7712 Chive Park,15
+90,Lanie Hagley,Lanie,Hagley,63(996)834-3794,63(519)969-3726,1650103276,1650104506,1230,Inglewood,California,51 Brentwood Junction,4
+91,Florie Satchell,Florie,Satchell,52(586)779-1666,7(512)226-1547,1645989312,1645993821,4509,Long Beach,California,50207 Riverside Alley,10
+92,Cacilia Sanper,Cacilia,Sanper,351(153)421-4063,33(819)524-5775,1660725613,1660726896,1283,Los Angeles,California,854 Corscot Parkway,8
+93,Jocko Crutch,Jocko,Crutch,33(583)906-9913,356(123)992-0999,1654812726,1654815006,2280,San Francisco,California,1 Prairieview Lane,21
+94,Weston Olley,Weston,Olley,86(130)252-5866,48(855)199-5680,1637384555,1637386293,1738,Long Beach,California,678 Elgar Terrace,1
+95,Thom Mitcham,Thom,Mitcham,385(186)616-2077,33(350)921-2235,1633525607,1633527279,1672,Pasadena,California,42482 Scott Court,2
+96,Elroy Kohrding,Elroy,Kohrding,7(342)124-4818,7(512)226-1547,1633426315,1633427897,1582,Stockton,California,647 Larry Park,44
+97,Binni Rumming,Binni,Rumming,62(579)581-9409,52(572)373-3046,1649237265,1649239970,2705,Long Beach,California,678 Elgar Terrace,1
+98,Charin Wass,Charin,Wass,48(171)207-5006,86(806)191-7196,1650900667,1650902654,1987,San Jose,California,7161 Division Park,26
+99,Rosalie McGaugey,Rosalie,McGaugey,1(909)642-2495,30(510)813-2489,1632111477,1632112704,1227,Oakland,California,85369 Independence Lane,16
+100,Rube Patshull,Rube,Patshull,27(692)289-3868,86(722)958-3884,1636579251,1636582006,2755,Sacramento,California,6357 Northwestern Pass,36
+101,Mahmud Beavors,Mahmud,Beavors,420(676)630-1818,86(806)191-7196,1657913789,1657915980,2191,Huntington Beach,California,64153 Birchwood Crossing,24
+102,Georgianna Lillford,Georgianna,Lillford,86(125)889-2705,971(419)560-7528,1660800861,1660805837,4976,Sacramento,California,4 Corry Park,37
+103,Willa Bubbings,Willa,Bubbings,46(467)187-7051,30(510)813-2489,1656403491,1656408127,4636,Redwood City,California,9624 2nd Terrace,33
+104,Mahmud Beavors,Mahmud,Beavors,420(676)630-1818,33(350)921-2235,1634754417,1634755881,1464,Sacramento,California,4 Corry Park,37
+105,Betsy Scrancher,Betsy,Scrancher,381(149)151-2454,48(634)965-2665,1636661695,1636666212,4517,Santa Monica,California,669 Banding Drive,13
+106,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,55(854)499-0789,1645584243,1645587151,2908,Petaluma,California,22898 Moulton Terrace,48
+107,Wat Annetts,Wat,Annetts,66(804)389-7926,33(350)921-2235,1634439720,1634441277,1557,Long Beach,California,94032 Alpine Center,41
+108,Irene Albert,Irene,Albert,62(185)986-1070,33(819)524-5775,1630693726,1630694166,440,Sacramento,California,4 Lunder Lane,35
+109,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,7(512)226-1547,1656130553,1656131388,835,Sacramento,California,24 Hoepker Crossing,47
+110,Gwenette Bezemer,Gwenette,Bezemer,62(382)352-7493,212(780)387-2949,1649488591,1649490616,2025,Richmond,California,7 Memorial Trail,18
+111,Cirilo Kyndred,Cirilo,Kyndred,353(286)379-0766,234(735)131-5980,1642627702,1642631970,4268,Long Beach,California,52 Arizona Parkway,43
+112,Cosette Parrot,Cosette,Parrot,86(318)201-5689,234(735)131-5980,1655035257,1655039142,3885,San Jose,California,7161 Division Park,26
+113,Sarina McMarquis,Sarina,McMarquis,81(653)645-4714,86(722)958-3884,1631040105,1631043705,3600,Santa Cruz,California,0 Dapin Alley,29
+114,Bambie Benge,Bambie,Benge,86(211)608-3729,356(123)992-0999,1636833119,1636836059,2940,Irvine,California,4365 Steensland Pass,22
+115,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,7(400)194-7922,1638583834,1638586132,2298,Inglewood,California,51 Brentwood Junction,4
+116,Thom Mitcham,Thom,Mitcham,385(186)616-2077,33(819)524-5775,1659151546,1659156191,4645,San Francisco,California,2 New Castle Road,25
+117,Hieronymus Blaskett,Hieronymus,Blaskett,55(349)599-8866,86(722)958-3884,1655528374,1655532810,4436,Los Angeles,California,8 Esch Street,49
+118,Benedetto Cownden,Benedetto,Cownden,63(416)723-3488,33(819)524-5775,1655792521,1655792855,334,Berkeley,California,0 Pennsylvania Street,42
+119,Mahmud Beavors,Mahmud,Beavors,420(676)630-1818,63(529)477-0399,1635499707,1635502810,3103,Berkeley,California,0 Pennsylvania Street,42
+120,Cosette Parrot,Cosette,Parrot,86(318)201-5689,46(512)805-0306,1634481778,1634486016,4238,Lancaster,California,646 Carpenter Plaza,23
+121,Leila Ruddick,Leila,Ruddick,996(696)476-9493,234(685)245-1915,1649831064,1649835689,4625,Sacramento,California,4 Corry Park,37
+122,Charin Wass,Charin,Wass,48(171)207-5006,33(831)446-5581,1635085549,1635085893,344,Long Beach,California,50207 Riverside Alley,10
+123,Crin MacMenamie,Crin,MacMenamie,63(816)897-7174,46(512)805-0306,1637351757,1637353158,1401,San Francisco,California,447 Dexter Crossing,32
+124,Cirilo Kyndred,Cirilo,Kyndred,353(286)379-0766,7(707)282-7580,1629837082,1629839753,2671,Los Angeles,California,2707 Linden Place,14
+125,Betsy Scrancher,Betsy,Scrancher,381(149)151-2454,30(510)813-2489,1633147814,1633148013,199,Stockton,California,647 Larry Park,44
+126,Florie Satchell,Florie,Satchell,52(586)779-1666,86(521)154-8375,1660630495,1660631126,631,Lancaster,California,646 Carpenter Plaza,23
+127,Irene Albert,Irene,Albert,62(185)986-1070,81(349)168-5517,1651148782,1651150438,1656,San Francisco,California,1 Prairieview Lane,21
+128,Georgianna Lillford,Georgianna,Lillford,86(125)889-2705,86(661)667-6074,1641882311,1641886861,4550,San Jose,California,7161 Division Park,26
+129,Lanie Hagley,Lanie,Hagley,63(996)834-3794,48(457)911-6423,1649790701,1649794167,3466,Irvine,California,5578 Hoffman Trail,40
+130,Darla Halfacree,Darla,Halfacree,30(870)704-5639,81(349)168-5517,1638908981,1638912259,3278,Richmond,California,75 Talmadge Place,20
+131,Cameron Smallthwaite,Cameron,Smallthwaite,62(232)374-2946,33(831)446-5581,1649271249,1649274758,3509,Los Angeles,California,2707 Linden Place,14
+132,Hieronymus Blaskett,Hieronymus,Blaskett,55(349)599-8866,63(519)969-3726,1654549738,1654553785,4047,Long Beach,California,50207 Riverside Alley,10
+133,Cecil Cordy,Cecil,Cordy,62(203)763-5501,55(726)656-6186,1640536167,1640539782,3615,San Diego,California,60354 Monica Crossing,38
+134,Rebekkah Jukubczak,Rebekkah,Jukubczak,351(774)585-7547,63(519)969-3726,1658410387,1658411450,1063,San Bernardino,California,7712 Chive Park,15
+135,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,30(510)813-2489,1633047176,1633051683,4507,San Francisco,California,1 Prairieview Lane,21
+136,Crin MacMenamie,Crin,MacMenamie,63(816)897-7174,55(854)499-0789,1649137337,1649140798,3461,Oakland,California,0443 Mesta Trail,28
+137,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,62(869)779-9681,1660589974,1660590348,374,Los Angeles,California,2707 Linden Place,14
+138,Charin Wass,Charin,Wass,48(171)207-5006,48(855)199-5680,1631825216,1631828178,2962,San Diego,California,2149 Luster Point,3
+139,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,86(317)385-0181,1642084294,1642087091,2797,San Francisco,California,1 Prairieview Lane,21
+140,Gwenette Bezemer,Gwenette,Bezemer,62(382)352-7493,234(685)245-1915,1638675271,1638676678,1407,Fresno,California,5536 Grasskamp Junction,50
+141,Waring Mordy,Waring,Mordy,62(922)388-7545,55(387)322-6848,1633895849,1633898945,3096,Carlsbad,California,2747 Russell Hill,34
+142,Cecil Cordy,Cecil,Cordy,62(203)763-5501,976(411)733-8335,1640355650,1640356271,621,San Jose,California,36441 Gale Plaza,27
+143,Mahmud Beavors,Mahmud,Beavors,420(676)630-1818,48(634)965-2665,1656490361,1656490894,533,Sacramento,California,4 Lunder Lane,35
+144,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,373(885)381-2656,1635647043,1635650740,3697,Huntington Beach,California,55729 Luster Drive,11
+145,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,84(866)126-6246,1655019242,1655021747,2505,San Diego,California,60354 Monica Crossing,38
+146,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,81(349)168-5517,1656456898,1656457983,1085,Sacramento,California,4 Corry Park,37
+147,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,48(634)965-2665,1634177113,1634181710,4597,Glendale,California,0908 Basil Point,7
+148,Tobe Boatright,Tobe,Boatright,502(141)451-6640,7(512)226-1547,1649432971,1649435407,2436,Los Angeles,California,01978 Susan Pass,6
+149,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,62(869)779-9681,1653241901,1653243189,1288,San Francisco,California,1 Prairieview Lane,21
+150,Alair Harower,Alair,Harower,230(952)254-2856,46(512)805-0306,1657551580,1657552978,1398,Glendale,California,0908 Basil Point,7
+151,Boonie Flather,Boonie,Flather,504(630)761-4257,48(855)199-5680,1652422377,1652424178,1801,Richmond,California,75 Talmadge Place,20
+152,Bambie Benge,Bambie,Benge,86(211)608-3729,212(780)387-2949,1637284538,1637287766,3228,Santa Cruz,California,0 Dapin Alley,29
+153,Cecil Cordy,Cecil,Cordy,62(203)763-5501,81(349)168-5517,1641028525,1641029897,1372,San Jose,California,7161 Division Park,26
+154,Hieronymus Blaskett,Hieronymus,Blaskett,55(349)599-8866,963(417)537-8882,1654545168,1654547941,2773,Long Beach,California,678 Elgar Terrace,1
+155,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,593(218)348-7628,1636081662,1636082284,622,Oakland,California,85369 Independence Lane,16
+156,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,963(417)537-8882,1646122867,1646123674,807,Huntington Beach,California,55729 Luster Drive,11
+157,Waring Mordy,Waring,Mordy,62(922)388-7545,351(280)695-9593,1639008791,1639013274,4483,Stockton,California,647 Larry Park,44
+158,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,976(411)733-8335,1639010673,1639015542,4869,Richmond,California,75 Talmadge Place,20
+159,Binni Rumming,Binni,Rumming,62(579)581-9409,86(567)852-1792,1639181855,1639184216,2361,Berkeley,California,0 Pennsylvania Street,42
+160,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,86(317)385-0181,1650149093,1650152882,3789,Sacramento,California,6357 Northwestern Pass,36
+161,Cecil Cordy,Cecil,Cordy,62(203)763-5501,48(634)965-2665,1633646606,1633648044,1438,Los Angeles,California,01978 Susan Pass,6
+162,Benedetto Cownden,Benedetto,Cownden,63(416)723-3488,55(387)322-6848,1651683773,1651688332,4559,Long Beach,California,50207 Riverside Alley,10
+163,Lilia Ellerker,Lilia,Ellerker,86(523)430-1507,976(411)733-8335,1649194803,1649196664,1861,Petaluma,California,22898 Moulton Terrace,48
+164,Thom Mitcham,Thom,Mitcham,385(186)616-2077,33(819)524-5775,1647689376,1647690994,1618,Berkeley,California,0 Pennsylvania Street,42
+165,Alair Harower,Alair,Harower,230(952)254-2856,998(108)587-2824,1652297683,1652298955,1272,Santa Monica,California,669 Banding Drive,13
+166,Wat Annetts,Wat,Annetts,66(804)389-7926,55(854)499-0789,1656783657,1656785264,1607,Glendale,California,0908 Basil Point,7
+167,Binni Rumming,Binni,Rumming,62(579)581-9409,33(831)446-5581,1649292628,1649295983,3355,Berkeley,California,0 Pennsylvania Street,42
+168,Waring Mordy,Waring,Mordy,62(922)388-7545,30(510)813-2489,1634782946,1634783905,959,San Francisco,California,447 Dexter Crossing,32
+169,Charin Wass,Charin,Wass,48(171)207-5006,86(317)385-0181,1659507785,1659510197,2412,San Diego,California,2149 Luster Point,3
+170,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,7(180)359-2018,1636502551,1636504345,1794,Santa Cruz,California,0 Dapin Alley,29
+171,Rube Patshull,Rube,Patshull,27(692)289-3868,86(473)129-7337,1643582162,1643584704,2542,Inglewood,California,51 Brentwood Junction,4
+172,Mahmud Beavors,Mahmud,Beavors,420(676)630-1818,46(227)770-6685,1629818429,1629821300,2871,Huntington Beach,California,55729 Luster Drive,11
+173,Boonie Flather,Boonie,Flather,504(630)761-4257,30(510)813-2489,1652117513,1652121426,3913,Sacramento,California,4 Lunder Lane,35
+174,Charmine Maunders,Charmine,Maunders,92(593)729-9872,48(634)965-2665,1661093868,1661095947,2079,Carlsbad,California,2747 Russell Hill,34
+175,Robbi Freegard,Robbi,Freegard,420(355)164-2092,850(839)808-5074,1650443385,1650445512,2127,Carlsbad,California,1 Bartelt Lane,31
+176,Charmine Maunders,Charmine,Maunders,92(593)729-9872,33(819)524-5775,1634993630,1634994107,477,Long Beach,California,52 Arizona Parkway,43
+177,Florie Satchell,Florie,Satchell,52(586)779-1666,7(400)194-7922,1654132388,1654137108,4720,San Francisco,California,2 New Castle Road,25
+178,Darla Halfacree,Darla,Halfacree,30(870)704-5639,86(567)852-1792,1639507498,1639510976,3478,Carlsbad,California,2747 Russell Hill,34
+179,Rebekkah Jukubczak,Rebekkah,Jukubczak,351(774)585-7547,593(218)348-7628,1654839325,1654840230,905,Carlsbad,California,2747 Russell Hill,34
+180,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,7(615)844-9516,1639165577,1639166129,552,San Diego,California,3 Thierer Pass,19
+181,Pansy Mattussevich,Pansy,Mattussevich,380(983)370-3141,63(529)477-0399,1646777829,1646780706,2877,San Jose,California,7161 Division Park,26
+182,Waring Mordy,Waring,Mordy,62(922)388-7545,86(473)129-7337,1660240846,1660245326,4480,Los Angeles,California,01978 Susan Pass,6
+183,Bambie Benge,Bambie,Benge,86(211)608-3729,33(350)921-2235,1637671743,1637673886,2143,Stockton,California,647 Larry Park,44
+184,Gwenette Bezemer,Gwenette,Bezemer,62(382)352-7493,62(895)811-6103,1631178069,1631180253,2184,Los Angeles,California,2707 Linden Place,14
+185,Boonie Flather,Boonie,Flather,504(630)761-4257,971(419)560-7528,1649472946,1649473329,383,Brea,California,31606 Merchant Hill,17
+186,Frank Bardill,Frank,Bardill,51(336)334-1278,55(854)499-0789,1652184685,1652185679,994,San Diego,California,3 Thierer Pass,19
+187,Florie Satchell,Florie,Satchell,52(586)779-1666,33(819)524-5775,1632474972,1632479527,4555,Richmond,California,75 Talmadge Place,20
+188,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,55(387)322-6848,1631831225,1631836216,4991,Fullerton,California,54 Kropf Circle,9
+189,Gwenette Bezemer,Gwenette,Bezemer,62(382)352-7493,86(567)852-1792,1645360511,1645362870,2359,San Diego,California,337 Welch Trail,39
+190,Rosalie McGaugey,Rosalie,McGaugey,1(909)642-2495,81(349)168-5517,1648978867,1648981769,2902,Brea,California,31606 Merchant Hill,17
+191,Lizabeth Kilshall,Lizabeth,Kilshall,86(763)709-8753,55(726)656-6186,1651488819,1651489286,467,Lancaster,California,646 Carpenter Plaza,23
+192,Ennis Dutnall,Ennis,Dutnall,968(366)449-5907,356(123)992-0999,1635224121,1635224587,466,Oakland,California,0443 Mesta Trail,28
+193,Cecil Cordy,Cecil,Cordy,62(203)763-5501,48(855)199-5680,1648978149,1648982295,4146,Huntington Beach,California,64153 Birchwood Crossing,24
+194,Tobe Boatright,Tobe,Boatright,502(141)451-6640,373(885)381-2656,1659615121,1659618497,3376,Fullerton,California,54 Kropf Circle,9
+195,Darla Halfacree,Darla,Halfacree,30(870)704-5639,86(521)154-8375,1644594872,1644595056,184,Sacramento,California,4 Lunder Lane,35
+196,Charmine Maunders,Charmine,Maunders,92(593)729-9872,976(411)733-8335,1643769747,1643771390,1643,Richmond,California,75 Talmadge Place,20
+197,Lawrence Jannaway,Lawrence,Jannaway,86(227)105-1344,48(855)199-5680,1640257521,1640258467,946,Long Beach,California,678 Elgar Terrace,1
+198,Irene Albert,Irene,Albert,62(185)986-1070,86(567)852-1792,1637811051,1637815558,4507,San Bernardino,California,7712 Chive Park,15
+199,Alair Harower,Alair,Harower,230(952)254-2856,234(735)131-5980,1660563202,1660563845,643,Los Angeles,California,2707 Linden Place,14
+200,Charmine Maunders,Charmine,Maunders,92(593)729-9872,33(350)921-2235,1636590193,1636591039,846,Fresno,California,5536 Grasskamp Junction,50
+201,Weston Olley,Weston,Olley,86(130)252-5866,7(180)359-2018,1648476482,1648479733,3251,Irvine,California,5578 Hoffman Trail,40
+202,Willa Bubbings,Willa,Bubbings,46(467)187-7051,46(227)770-6685,1632562502,1632565895,3393,San Diego,California,60354 Monica Crossing,38
+203,Ebenezer Vaud,Ebenezer,Vaud,351(514)131-4102,84(866)126-6246,1647634479,1647636078,1599,Santa Monica,California,669 Banding Drive,13
+204,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,63(529)477-0399,1643577443,1643579086,1643,Sacramento,California,4 Lunder Lane,35
+205,Lizabeth Kilshall,Lizabeth,Kilshall,86(763)709-8753,86(806)191-7196,1655603737,1655604396,659,San Diego,California,2149 Luster Point,3
+206,Georgianna Lillford,Georgianna,Lillford,86(125)889-2705,55(854)499-0789,1632136581,1632138387,1806,Lancaster,California,646 Carpenter Plaza,23
+207,Cacilia Sanper,Cacilia,Sanper,351(153)421-4063,234(685)245-1915,1647723755,1647725139,1384,Los Angeles,California,854 Corscot Parkway,8
+208,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,963(417)537-8882,1657058526,1657059579,1053,Fullerton,California,61 Washington Parkway,12
+209,Melisse Shilton,Melisse,Shilton,212(830)563-1091,86(567)852-1792,1657841414,1657845983,4569,San Francisco,California,1 Prairieview Lane,21
+210,Darla Halfacree,Darla,Halfacree,30(870)704-5639,46(227)770-6685,1653784007,1653787381,3374,San Diego,California,337 Welch Trail,39
+211,Terence Balhatchet,Terence,Balhatchet,351(905)372-6077,373(885)381-2656,1646160697,1646161260,563,Oakland,California,85369 Independence Lane,16
+212,Cecil Cordy,Cecil,Cordy,62(203)763-5501,66(191)311-1807,1638354874,1638357157,2283,Santa Cruz,California,0 Dapin Alley,29
+213,Cameron Smallthwaite,Cameron,Smallthwaite,62(232)374-2946,86(722)958-3884,1646417555,1646418938,1383,San Jose,California,7161 Division Park,26
+214,Robbi Freegard,Robbi,Freegard,420(355)164-2092,84(866)126-6246,1640871373,1640873020,1647,Los Angeles,California,01978 Susan Pass,6
+215,Robbi Freegard,Robbi,Freegard,420(355)164-2092,66(191)311-1807,1642934368,1642938751,4383,Sacramento,California,4 Lunder Lane,35
+216,Wat Annetts,Wat,Annetts,66(804)389-7926,212(780)387-2949,1636662997,1636667691,4694,Los Angeles,California,8 Esch Street,49
+217,Kandy Godfrey,Kandy,Godfrey,86(495)856-3578,7(180)359-2018,1646307226,1646308875,1649,San Jose,California,7161 Division Park,26
+218,Darla Halfacree,Darla,Halfacree,30(870)704-5639,52(572)373-3046,1635738799,1635739621,822,Santa Monica,California,669 Banding Drive,13
+219,Florie Satchell,Florie,Satchell,52(586)779-1666,30(285)168-4257,1644533343,1644538015,4672,Richmond,California,75 Talmadge Place,20
+220,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,30(510)813-2489,1643885156,1643889835,4679,San Jose,California,36441 Gale Plaza,27
+221,Terence Balhatchet,Terence,Balhatchet,351(905)372-6077,66(191)311-1807,1633269719,1633271565,1846,San Francisco,California,2 New Castle Road,25
+222,Frank Bardill,Frank,Bardill,51(336)334-1278,86(473)129-7337,1644251975,1644255581,3606,Irvine,California,5578 Hoffman Trail,40
+223,Rube Patshull,Rube,Patshull,27(692)289-3868,86(473)129-7337,1629881308,1629884470,3162,San Bernardino,California,7712 Chive Park,15
+224,Bambie Benge,Bambie,Benge,86(211)608-3729,7(707)282-7580,1646216981,1646221676,4695,San Diego,California,3 Thierer Pass,19
+225,Thom Mitcham,Thom,Mitcham,385(186)616-2077,86(722)958-3884,1654561057,1654563926,2869,Pasadena,California,42482 Scott Court,2
+226,Binni Rumming,Binni,Rumming,62(579)581-9409,351(280)695-9593,1653292546,1653296764,4218,Fresno,California,17646 Prairie Rose Drive,5
+227,Wat Annetts,Wat,Annetts,66(804)389-7926,976(411)733-8335,1641662656,1641666953,4297,Fullerton,California,54 Kropf Circle,9
+228,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,998(108)587-2824,1637402417,1637406347,3930,San Diego,California,337 Welch Trail,39
+229,Charin Wass,Charin,Wass,48(171)207-5006,55(854)499-0789,1639263292,1639265260,1968,San Francisco,California,1 Prairieview Lane,21
+230,Cecil Cordy,Cecil,Cordy,62(203)763-5501,7(512)226-1547,1648549461,1648551264,1803,San Francisco,California,1 Prairieview Lane,21
+231,Rube Patshull,Rube,Patshull,27(692)289-3868,30(285)168-4257,1640061109,1640061672,563,San Diego,California,2149 Luster Point,3
+232,Bambie Benge,Bambie,Benge,86(211)608-3729,55(854)499-0789,1637434110,1637436706,2596,Redwood City,California,9624 2nd Terrace,33
+233,Alair Harower,Alair,Harower,230(952)254-2856,46(227)770-6685,1638591755,1638595778,4023,Los Angeles,California,854 Corscot Parkway,8
+234,Waring Mordy,Waring,Mordy,62(922)388-7545,86(806)191-7196,1658263038,1658266516,3478,Long Beach,California,52 Arizona Parkway,43
+235,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,963(417)537-8882,1636551473,1636555571,4098,Los Angeles,California,854 Corscot Parkway,8
+236,Florie Satchell,Florie,Satchell,52(586)779-1666,62(869)779-9681,1646321132,1646325681,4549,Berkeley,California,0 Pennsylvania Street,42
+237,Alair Harower,Alair,Harower,230(952)254-2856,86(317)385-0181,1632521678,1632522462,784,Sacramento,California,24 Hoepker Crossing,47
+238,Paulie Anthonies,Paulie,Anthonies,86(817)997-8369,7(615)844-9516,1656759498,1656761203,1705,San Francisco,California,447 Dexter Crossing,32
+239,Rosalie McGaugey,Rosalie,McGaugey,1(909)642-2495,84(866)126-6246,1642200104,1642202978,2874,Huntington Beach,California,55729 Luster Drive,11
+240,Irene Albert,Irene,Albert,62(185)986-1070,62(895)811-6103,1642824007,1642826777,2770,Stockton,California,647 Larry Park,44
+241,Rebekkah Jukubczak,Rebekkah,Jukubczak,351(774)585-7547,234(685)245-1915,1657202130,1657206733,4603,Irvine,California,4365 Steensland Pass,22
+242,Lanie Hagley,Lanie,Hagley,63(996)834-3794,7(180)359-2018,1639447593,1639451114,3521,Brea,California,31606 Merchant Hill,17
+243,Lilia Ellerker,Lilia,Ellerker,86(523)430-1507,46(295)230-5292,1638974342,1638977142,2800,Inglewood,California,51 Brentwood Junction,4
+244,Rube Patshull,Rube,Patshull,27(692)289-3868,55(854)499-0789,1649841694,1649842794,1100,Irvine,California,6642 Rowland Junction,30
+245,Darla Halfacree,Darla,Halfacree,30(870)704-5639,55(854)499-0789,1649091353,1649091525,172,Berkeley,California,0 Pennsylvania Street,42
+246,Gearard Chalcraft,Gearard,Chalcraft,967(148)674-9523,52(572)373-3046,1633599440,1633601036,1596,Huntington Beach,California,64153 Birchwood Crossing,24
+247,Benedetto Cownden,Benedetto,Cownden,63(416)723-3488,55(726)656-6186,1634653256,1634653923,667,Redwood City,California,9624 2nd Terrace,33
+248,Cacilia Sanper,Cacilia,Sanper,351(153)421-4063,234(685)245-1915,1642586293,1642588517,2224,Fullerton,California,61 Washington Parkway,12
+249,Robbi Freegard,Robbi,Freegard,420(355)164-2092,55(854)499-0789,1636646366,1636647457,1091,Long Beach,California,678 Elgar Terrace,1
+250,Florie Satchell,Florie,Satchell,52(586)779-1666,963(417)537-8882,1633152137,1633154857,2720,Los Angeles,California,8 Esch Street,49
